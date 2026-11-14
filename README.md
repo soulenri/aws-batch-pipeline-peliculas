@@ -6,7 +6,7 @@ Proyecto final del módulo de Big Data de la Especialización en Big Data e Inte
 
 ![Cuadro de mando en Power BI](docs/dashboard.png)
 
-##Objetivo
+## Objetivo
 
 Construir una arquitectura de datos completa y trazable sobre AWS, desde el dato bruto hasta el informe final, aplicando control de calidad antes de que los datos lleguen a la visualización. El caso de uso responde a preguntas como:
 
