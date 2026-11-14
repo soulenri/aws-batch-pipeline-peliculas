@@ -1,6 +1,6 @@
 # Pipeline de datos batch en AWS: catálogo de películas
 
-Pipeline de datos en AWS ingiere, valida, transforma y explota un catálogo de **9.826 películas (1902–2024)**, y termina en un cuadro de mando de Power BI con KPIs y filtros por año e idioma.
+Pipeline de datos de extremo a extremo en AWS que ingiere, valida, transforma y explota un catálogo de **9.826 películas (1902–2024)**, y termina en un cuadro de mando de Power BI con KPIs y filtros por año e idioma.
 
 Proyecto final del módulo de Big Data de la Especialización en Big Data e Inteligencia Artificial (Universidad Alfonso X el Sabio, 2026).
 
